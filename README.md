@@ -1,6 +1,3 @@
-# Estacionamento
-Estacionamento Sempre Bom
-
 Código que explica o funcionamento do Estacionamento Sempre Bom, feito para um trabalho da faculdade do curso Análise e Desenvolvimento de Sistemas da instituição UniFil.
 
 Até 15 minutos -> isento; <br>
